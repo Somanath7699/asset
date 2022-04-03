@@ -1,0 +1,7 @@
+Report generated date   :2022-03-24
+Report generated time   :16:15:11.719
+Month  :January
+no.of assets  :0
+no.of delivered assets  :0
+Id of the assests shipped this month
+Shipment associated with the above mentioned assets
