@@ -11,3 +11,5 @@ class AssetManagmentApplicationTests {
 	}
 
 }
+Hello
+
